@@ -34,4 +34,6 @@ There was a total of 15,663 non-Vine/non-paid 5-star reviews.
 
 
 ## Summary
-In your summary, state if there is any positivity bias for reviews in the Vine program. Use the results of your analysis to support your statement. Then, provide one additional analysis that you could do with the dataset to support your statement.
+Based on the analysis, it's clear that there is a positivity bias with the Vine PAID reviews, when compared to the non-Vine/unpaid reviews. As indicated above, 51.06% of the Vine PAID revies were 5 stars, compated to the non-Vine/non-paid 5 star reviews, which were only 38.70, which is a different of 12.36%. In addition, there was a larger sample size of non-Vine/non-paid reviews of 40,471, compared to the Vine PAID reviews of only 94. I would recommend SellBy conduct one additional analysis by adding in verified purchases to the analysis to determine if this impacts the positivity bias as there could be positive reviews added in the non-Vine program; however, the purchases may not have been made and those could have been added by an competitor. 
+
+Then, provide one additional analysis that you could do with the dataset to support your statement.
